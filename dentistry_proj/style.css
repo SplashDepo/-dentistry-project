@@ -1,0 +1,74 @@
+@font-face {
+  font-family: " Gilroy";
+  src: url(fonts/Gilroy-Regular.woff2), url(fonts/Gilroy-Regular.woff);
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: " Gilroy";
+  src: url(fonts/Gilroy-Medium.woff2), url(fonts/Gilroy-Medium.woff);
+  font-display: swap;
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: " Gilroy";
+  src: url(fonts/Gilroy-SemiBold.woff2), url(fonts/Gilroy-SemiBold.woff);
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: " Gilroy";
+  src: url(fonts/Gilroy-Bold.woff2), url(fonts/Gilroy-Bold.woff);
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: " Gilroy";
+  src: url(fonts/Gilroy-BoldItalic.woff2), url(fonts/Gilroy-BoldItalic.woff);
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: " Gilroy";
+  src: url(fonts/Gilroy-ExtraBold.woff2), url(fonts/Gilroy-ExtraBold.woff);
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  padding: 0;
+  border: none;
+}
+
+input {
+  border: none;
+}
+
+.container {
+  max-width: 1420px;
+  margin: 0 auto;
+  padding: 0 15px;
+}/*# sourceMappingURL=style.css.map */
